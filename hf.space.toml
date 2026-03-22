@@ -1,0 +1,18 @@
+# Single source of truth for Hugging Face Space + README frontmatter.
+# After editing:  python scripts/render_readme.py
+# CI/CD reads this file to know where to push (see .github/workflows/sync-to-huggingface.yml).
+
+[space]
+namespace = "Ayush900"
+name = "carrer_conversations"
+
+[readme]
+title = "Virtual Resume — Career Conversations"
+emoji = "💼"
+color_from = "blue"
+color_to = "indigo"
+sdk = "gradio"
+sdk_version = "5.22.0"
+python_version = "3.12"
+app_file = "app.py"
+pinned = false

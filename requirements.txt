@@ -1,0 +1,7 @@
+# Hugging Face Spaces installs from requirements.txt by default.
+# Keep in sync with app.py imports; bump after changing hf.space.toml sdk_version if needed.
+gradio>=5.22.0
+openai>=1.68.2
+python-dotenv>=1.0.1
+pypdf>=5.4.0
+requests>=2.32.3
