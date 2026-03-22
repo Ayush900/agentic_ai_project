@@ -12,6 +12,8 @@ pinned: false
 
 <!-- Frontmatter above is generated from hf.space.toml via: python scripts/render_readme.py -->
 <!-- Frontmatter above is generated from hf.space.toml via: python scripts/render_readme.py -->
+<!-- Frontmatter above is generated from hf.space.toml via: python scripts/render_readme.py -->
+<!-- Frontmatter above is generated from hf.space.toml via: python scripts/render_readme.py -->
 
 # Virtual Resume — Career Conversations
 
